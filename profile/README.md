@@ -21,7 +21,7 @@ or
 
 FRC-2024-Reefscape-Team3291
 
-### Other Respositories ###
+#### Other Respositories ####
 Generally, we want to try and group things to area.  Currently, we have the following areas:
 * Website - Website is intended to be the repository for our future website for the teams
 * Library - Library is code of functionality that we've used in the past without necessarily being the full code repository.
